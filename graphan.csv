@@ -1,0 +1,141 @@
+Source,Target,Type,Id,Label,Weight,SourceName,TargetName
+2,1,Undirected,0,,1,Javier Pena,Steven Murphy
+45,56,Undirected,72,,1,Velasco,Gorilla
+0,33,Undirected,2,,1,Pablo Escobar,Juan Pablo Escobar
+0,9,Undirected,3,,1,Pablo Escobar,Tata Escobar
+3,1,Undirected,4,,1,Connie Murphy,Steven Murphy
+5,0,Undirected,5,,1,Jorge Ochoa,Pablo Escobar
+25,43,Undirected,6,,1,Ambassador Noonan,Ambassador Arthur Crosby
+1,25,Undirected,7,,1,Steven Murphy,Ambassador Noonan
+25,2,Undirected,8,,1,Ambassador Noonan,Javier Pena
+2,43,Undirected,9,,1,Javier Pena,Ambassador Arthur Crosby
+1,43,Undirected,10,,1,Steven Murphy,Ambassador Arthur Crosby
+25,57,Undirected,11,,1,Ambassador Noonan,Ronald Reagan
+43,58,Undirected,12,,1,Ambassador Arthur Crosby,George Bush Sr.
+6,5,Undirected,13,,1,Fabio Ochoa,Jorge Ochoa
+21,0,Undirected,14,,1,Gonzalo Rodriguez Gacha,Pablo Escobar
+4,53,Undirected,15,,1,Colonel Horacio Carrillo,Colonel Hugo Martinez
+54,53,Undirected,16,,1,Hugo Martinez Jr.,Colonel Hugo Martinez
+49,0,Undirected,17,,1,Manuela Escobar,Pablo Escobar
+10,0,Undirected,18,,1,Hermilda Gaviria,Pablo Escobar
+22,0,Undirected,19,,1,Gustavo Gaviria,Pablo Escobar
+27,11,Undirected,20,,1,Diana Turbay,Valeria Velez
+43,13,Undirected,21,,1,Ambassador Arthur Crosby,Cesar Gaviria
+13,25,Undirected,22,,1,Cesar Gaviria,Ambassador Noonan
+1,31,Undirected,23,,1,Steven Murphy,Agent Owen
+21,5,Undirected,24,,1,Gonzalo Rodriguez Gacha,Jorge Ochoa
+21,6,Undirected,25,,1,Gonzalo Rodriguez Gacha,Fabio Ochoa
+30,5,Undirected,26,,1,Marta Ochoa,Jorge Ochoa
+6,30,Undirected,27,,1,Fabio Ochoa,Marta Ochoa
+23,6,Undirected,28,,1,Carlos Lehder,Fabio Ochoa
+23,5,Undirected,29,,1,Carlos Lehder,Jorge Ochoa
+23,21,Undirected,30,,1,Carlos Lehder,Gonzalo Rodriguez Gacha
+23,0,Undirected,31,,1,Carlos Lehder,Pablo Escobar
+16,31,Undirected,32,,1,Bill Stechner,Agent Owen
+7,41,Undirected,33,,1,"Juan Diego Diaz - ""La Quica",Limon
+7,0,Undirected,34,,1,"Juan Diego Diaz - ""La Quica",Pablo Escobar
+41,42,Undirected,35,,1,Limon,Maritza
+8,0,Undirected,36,,1,"Roberto Ramos - ""Poison",Pablo Escobar
+56,0,Undirected,37,,1,Gorilla,Pablo Escobar
+29,0,Undirected,38,,1,"Nelson Hernandez - ""Blackie",Pablo Escobar
+29,7,Undirected,39,,1,"Nelson Hernandez - ""Blackie","Juan Diego Diaz - ""La Quica"
+0,11,Undirected,40,,1,Pablo Escobar,Valeria Velez
+45,0,Undirected,41,,1,Velasco,Pablo Escobar
+45,29,Undirected,42,,1,Velasco,"Nelson Hernandez - ""Blackie"
+41,0,Undirected,43,,1,Limon,Pablo Escobar
+7,56,Undirected,44,,1,"Juan Diego Diaz - ""La Quica",Gorilla
+29,56,Undirected,45,,1,"Nelson Hernandez - ""Blackie",Gorilla
+41,56,Undirected,46,,1,Limon,Gorilla
+45,41,Undirected,73,,1,Velasco,Limon
+7,45,Undirected,74,,1,"Juan Diego Diaz - ""La Quica",Velasco
+29,41,Undirected,75,,1,"Nelson Hernandez - ""Blackie",Limon
+47,15,Undirected,50,,1,"Diego Murillo Berjarano - ""Don Berna",Judy Moncada
+36,0,Undirected,71,,1,Fernando Galeano,Pablo Escobar
+37,0,Undirected,52,,1,Kiko Moncada,Pablo Escobar
+38,22,Undirected,56,,1,Marina Ochoa,Gustavo Gaviria
+59,47,Undirected,65,,1,Jaime Mendoza,"Diego Murillo Berjarano - ""Don Berna"
+5,38,Undirected,58,,1,Jorge Ochoa,Marina Ochoa
+6,38,Undirected,59,,1,Fabio Ochoa,Marina Ochoa
+19,5,Undirected,60,,1,"Helmer Herrera - ""Pacho",Jorge Ochoa
+19,6,Undirected,61,,1,"Helmer Herrera - ""Pacho",Fabio Ochoa
+46,0,Undirected,62,,1,Jairo,Pablo Escobar
+39,13,Undirected,63,,1,Ana Gaviria,Cesar Gaviria
+47,2,Undirected,64,,1,"Diego Murillo Berjarano - ""Don Berna",Javier Pena
+15,59,Undirected,66,,1,Judy Moncada,Jaime Mendoza
+36,37,Undirected,70,,1,Fernando Galeano,Kiko Moncada
+15,37,Undirected,69,,1,Judy Moncada,Kiko Moncada
+53,13,Undirected,76,,1,Colonel Hugo Martinez,Cesar Gaviria
+13,4,Undirected,77,,1,Cesar Gaviria,Colonel Horacio Carrillo
+0,6,Undirected,78,,1,Pablo Escobar,Fabio Ochoa
+8,41,Undirected,79,,1,"Roberto Ramos - ""Poison",Limon
+8,45,Undirected,80,,1,"Roberto Ramos - ""Poison",Velasco
+8,7,Undirected,81,,1,"Roberto Ramos - ""Poison","Juan Diego Diaz - ""La Quica"
+8,29,Undirected,82,,1,"Roberto Ramos - ""Poison","Nelson Hernandez - ""Blackie"
+8,56,Undirected,83,,1,"Roberto Ramos - ""Poison",Gorilla
+18,19,Undirected,84,,1,Gilberto Rodriguez,"Helmer Herrera - ""Pacho"
+20,18,Undirected,85,,1,Miguel Rodriguez Orejuela,Gilberto Rodriguez
+34,53,Undirected,86,,1,Trujillo,Colonel Hugo Martinez
+34,4,Undirected,87,,1,Trujillo,Colonel Horacio Carrillo
+48,0,Undirected,88,,1,Ricardo Prisco,Pablo Escobar
+7,48,Undirected,89,,1,"Juan Diego Diaz - ""La Quica",Ricardo Prisco
+49,9,Undirected,90,,1,Manuela Escobar,Tata Escobar
+33,9,Undirected,91,,1,Juan Pablo Escobar,Tata Escobar
+10,9,Undirected,92,,1,Hermilda Gaviria,Tata Escobar
+10,33,Undirected,93,,1,Hermilda Gaviria,Juan Pablo Escobar
+10,49,Undirected,94,,1,Hermilda Gaviria,Manuela Escobar
+17,58,Undirected,95,,1,Claudia Messina,George Bush Sr.
+17,1,Undirected,96,,1,Claudia Messina,Steven Murphy
+2,17,Undirected,97,,1,Javier Pena,Claudia Messina
+17,43,Undirected,98,,1,Claudia Messina,Ambassador Arthur Crosby
+43,16,Undirected,99,,1,Ambassador Arthur Crosby,Bill Stechner
+2,31,Undirected,100,,1,Javier Pena,Agent Owen
+1,16,Undirected,101,,1,Steven Murphy,Bill Stechner
+2,16,Undirected,102,,1,Javier Pena,Bill Stechner
+40,20,Undirected,103,,1,Navegante,Miguel Rodriguez Orejuela
+40,18,Undirected,104,,1,Navegante,Gilberto Rodriguez
+40,19,Undirected,105,,1,Navegante,"Helmer Herrera - ""Pacho"
+28,0,Undirected,108,,1,Sureshot,Pablo Escobar
+26,25,Undirected,107,,1,Colonel Lou Wysession,Ambassador Noonan
+28,8,Undirected,109,,1,Sureshot,"Roberto Ramos - ""Poison"
+28,7,Undirected,110,,1,Sureshot,"Juan Diego Diaz - ""La Quica"
+28,29,Undirected,111,,1,Sureshot,"Nelson Hernandez - ""Blackie"
+60,0,Undirected,112,,1,Jaime Carrera,Pablo Escobar
+60,61,Undirected,113,,1,Jaime Carrera,Olivia
+61,3,Undirected,114,,1,Olivia,Connie Murphy
+61,1,Undirected,115,,1,Olivia,Steven Murphy
+35,1,Undirected,116,,1,Alberto Suarez,Steven Murphy
+35,2,Undirected,117,,1,Alberto Suarez,Javier Pena
+35,0,Undirected,118,,1,Alberto Suarez,Pablo Escobar
+35,4,Undirected,120,,1,Alberto Suarez,Colonel Horacio Carrillo
+14,4,Undirected,121,,1,Eduardo Sandoval,Colonel Horacio Carrillo
+14,13,Undirected,122,,1,Eduardo Sandoval,Cesar Gaviria
+14,1,Undirected,123,,1,Eduardo Sandoval,Steven Murphy
+1,44,Undirected,129,,1,Steven Murphy,Edward Jacoby
+2,4,Undirected,125,,1,Javier Pena,Colonel Horacio Carrillo
+1,4,Undirected,126,,1,Steven Murphy,Colonel Horacio Carrillo
+2,53,Undirected,127,,1,Javier Pena,Colonel Hugo Martinez
+1,53,Undirected,128,,1,Steven Murphy,Colonel Hugo Martinez
+51,50,Undirected,130,,1,Fidel Castano,Carlos Castano Gil
+51,16,Undirected,131,,1,Fidel Castano,Bill Stechner
+50,16,Undirected,132,,1,Carlos Castano Gil,Bill Stechner
+50,15,Undirected,133,,1,Carlos Castano Gil,Judy Moncada
+51,15,Undirected,134,,1,Fidel Castano,Judy Moncada
+55,2,Undirected,135,,1,General Diego Vargas,Javier Pena
+55,53,Undirected,136,,1,General Diego Vargas,Colonel Hugo Martinez
+55,4,Undirected,137,,1,General Diego Vargas,Colonel Horacio Carrillo
+55,13,Undirected,138,,1,General Diego Vargas,Cesar Gaviria
+12,0,Undirected,139,,1,Fernando Duque,Pablo Escobar
+12,11,Undirected,140,,1,Fernando Duque,Valeria Velez
+12,13,Undirected,141,,1,Fernando Duque,Cesar Gaviria
+52,12,Undirected,142,,1,Gustavo de Greiff,Fernando Duque
+52,13,Undirected,143,,1,Gustavo de Greiff,Cesar Gaviria
+26,1,Undirected,144,,1,Colonel Lou Wysession,Steven Murphy
+32,13,Undirected,145,,1,Luis Carlos Galan,Cesar Gaviria
+24,3,Undirected,146,,1,Elisa Alvarez,Connie Murphy
+24,1,Undirected,147,,1,Elisa Alvarez,Steven Murphy
+24,2,Undirected,148,,1,Elisa Alvarez,Javier Pena
+62,63,Undirected,149,,1,Ivan Torres,Alejandro Ayala
+63,24,Undirected,150,,1,Alejandro Ayala,Elisa Alvarez
+62,24,Undirected,151,,1,Ivan Torres,Elisa Alvarez
+62,0,Undirected,152,,1,Ivan Torres,Pablo Escobar
+47,34,Undirected,153,,1,"Diego Murillo Berjarano - ""Don Berna",Trujillo
