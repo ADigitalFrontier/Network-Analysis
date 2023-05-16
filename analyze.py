@@ -52,6 +52,8 @@ plt.show()
 # bridge nodes of interest:
 # alberto suarez: 35, fernando duque: 12, ivan torres: 62
 
+# bridges: 35=Suarez,12=Duque,62=Torres,11=Velez
+
 # create a list of the outlaws
 outlaws = [0, 7, 5, 6, 8, 29, 41]
 
@@ -59,7 +61,7 @@ outlaws = [0, 7, 5, 6, 8, 29, 41]
 law = [1, 2, 13, 4, 43, 53]
 
 # create a list of the bridge nodes
-bridge = [35, 12, 62]
+bridge = [35, 12, 62, 11]
 
 # for each bridge, calculate the average shortest path to the outlaws and the law with and without the bridge
 # copy the graph
